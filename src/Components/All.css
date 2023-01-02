@@ -1,0 +1,14 @@
+.logo-text{
+        background: -webkit-linear-gradient(rgb(187, 3, 187), rgb(219, 186, 2));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+}
+.banner-div{
+    background-image: url("../images/banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
